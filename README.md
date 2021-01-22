@@ -58,6 +58,10 @@
   </a>
 </p>
 
+## Lapras
+
+[![lapras_score](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/lapras/score.png)](https://lapras.com/public/Y5XCY3M)
+
 ## Main repositories
 
 [![fzf-preview.vim](https://github-readme-stats.vercel.app/api/pin/?username=yuki-yano&repo=fzf-preview.vim)](https://github.com/yuki-yano/fzf-preview.vim)
