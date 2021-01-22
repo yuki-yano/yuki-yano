@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -28,3 +30,15 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           BRANCH: "main"
+      - uses: denolib/setup-deno@v2
+        with:
+          deno-version: v1.x
+      - run: deno run --unstable --allow-net --allow-read --allow-write scripts/fetch_lapras_score.ts
+      - run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global pull.ff only
+      - run: git pull
+      - run: git add lapras/score.png
+      - run: git commit -m "Update lapras score" || echo "No change lapras score"
+      - run: git push origin main
