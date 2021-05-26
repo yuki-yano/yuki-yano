@@ -12,22 +12,6 @@
 [![zenn_followers](https://zenn.badge.nikaera.com/s/yano/followers?style=plastic)](https://zenn.dev/yano)
 [![reddit_count](https://img.shields.io/reddit/user-karma/combined/yuki-ycino?label=Reddit&logo=reddit&style=flat)](https://www.reddit.com/user/yuki-ycino)
 
-![Metrics](https://github.com/yuki-yano/yuki-yano/blob/main/github-metrics.svg)
-
-## Status
-
-<a href="https://github-readme-stats.vercel.app/api?username=yuki-yano&show_icons=true">
-  <img height="150px" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yuki-yano&show_icons=true">
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-yano&layout=compact">
-  <img height="150px" alt="most_language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-yano&layout=compact">
-</a>
-
-[![github_trophy](https://github-profile-trophy.vercel.app/?username=yuki-yano&row=1&column=8)](https://github-profile-trophy.vercel.app/?username=yuki-yano&row=1&column=8)
-[![github_detail](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/0-profile-details.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/0-profile-details.svg)
-[![github_top_language_repos](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/1-repos-per-language.svg)
-[![github_most_commit_language](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/2-most-commit-language.svg)
-
 ## Skils
 
 <p align="left">
@@ -59,6 +43,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
   </a>
 </p>
+
+## Metrics
+
+![Metrics](https://github.com/yuki-yano/yuki-yano/blob/main/github-metrics.svg)
+
+## Status
+
+<a href="https://github-readme-stats.vercel.app/api?username=yuki-yano&show_icons=true">
+  <img height="150px" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yuki-yano&show_icons=true">
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-yano&layout=compact">
+  <img height="150px" alt="most_language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-yano&layout=compact">
+</a>
+
+[![github_trophy](https://github-profile-trophy.vercel.app/?username=yuki-yano&row=1&column=8)](https://github-profile-trophy.vercel.app/?username=yuki-yano&row=1&column=8)
+[![github_detail](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/0-profile-details.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/0-profile-details.svg)
+[![github_top_language_repos](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/1-repos-per-language.svg)
+[![github_most_commit_language](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/2-most-commit-language.svg)
 
 ## Lapras
 
