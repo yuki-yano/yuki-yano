@@ -76,3 +76,6 @@
 ## Analysis
 
 [![wakatime_stat](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/images/stat.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/images/stat.svg)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
