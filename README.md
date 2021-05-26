@@ -1,6 +1,6 @@
 # Yuki Yano's Profile
 
-[![Waka Readme](https://github.com/yuki-yano/yuki-yano/workflows/Waka%20Readme/badge.svg)](https://github.com/yuki-yano/yuki-yano/actions?query=workflow%3A%22Waka+Readme%22)
+[![Update Readme](https://github.com/yuki-yano/yuki-yano/workflows/Update%20Readme/badge.svg)](https://github.com/yuki-yano/yuki-yano/actions?query=workflow%3A%22Update+Readme%22)
 
 [![github_views](https://komarev.com/ghpvc/?username=yuki-yano)](https://github.com/yuki-yano/yuki-yano/)
 [![twitter](https://img.shields.io/twitter/follow/yuki_ycino?label=Twitter&logo=twitter&style=flat)](http://twitter.com/yuki_ycino)
@@ -11,6 +11,8 @@
 [![zenn_liked](https://zenn.badge.nikaera.com/s/yano/likes?style=plastic)](https://zenn.dev/yano)
 [![zenn_followers](https://zenn.badge.nikaera.com/s/yano/followers?style=plastic)](https://zenn.dev/yano)
 [![reddit_count](https://img.shields.io/reddit/user-karma/combined/yuki-ycino?label=Reddit&logo=reddit&style=flat)](https://www.reddit.com/user/yuki-ycino)
+
+![Metrics](https://metrics.lecoq.io/yuki-yano?template=classic&languages=1&habits=1&achievements=1&projects=1&topics=1&reactions=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&topics.mode=mastered&topics.sort=stars&topics.limit=15&reactions.limit=200&reactions.days=0&reactions.display=absolute&reactions.ignored=github-actions%5Bbot%5D%2C%20dependabot%5Bbot%5D&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FTokyo)
 
 ## Status
 
