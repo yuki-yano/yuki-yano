@@ -78,4 +78,63 @@
 [![wakatime_stat](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/images/stat.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/images/stat.svg)
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284120%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 472 Contributions in the Year 2021
+ > 
+> 📦 127.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 84 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+🌆 Daytime    408 commits    █████████████░░░░░░░░░░░░   51.71% 
+🌃 Evening    227 commits    ███████░░░░░░░░░░░░░░░░░░   28.77% 
+🌙 Night      58 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.35%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+TypeScript               14 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   38.72% 
+VimL                     8 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+Markdown                 4 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Other                    3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.93% 
+Bash                     1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+🔥 Editors: 
+Vim                      36 hrs 52 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.42% 
+Ruby                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Shell                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+CoffeeScript             6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.17%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
