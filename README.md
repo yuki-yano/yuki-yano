@@ -67,8 +67,8 @@
 ## Main repositories
 
 [![fzf-preview.vim](https://github-readme-stats.vercel.app/api/pin/?username=yuki-yano&repo=fzf-preview.vim)](https://github.com/yuki-yano/fzf-preview.vim)
+[![zeno.zsh](https://github-readme-stats.vercel.app/api/pin/?username=yuki-yano&repo=zeno.zsh)](https://github.com/yuki-yano/zeno.zsh)
 
-[![fzf-preview.zsh](https://github-readme-stats.vercel.app/api/pin/?username=yuki-yano&repo=fzf-preview.zsh)](https://github.com/yuki-yano/fzf-preview.zsh)
 [![ftg-reversal](https://github-readme-stats.vercel.app/api/pin/?username=ftg-reversal&repo=reversal)](https://github.com/ftg-reversal/reversal)
 [![imecoletter](https://github-readme-stats.vercel.app/api/pin/?username=yuki-yano&repo=imecoletter)](https://github.com/yuki-yano/imecoletter)
 [![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=yukiycino-dotfiles&repo=dotfiles)](https://github.com/yukiycino-dotfiles/dotfiles)
