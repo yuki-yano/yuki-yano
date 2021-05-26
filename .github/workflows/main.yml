@@ -27,11 +27,6 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_DAYS_OF_WEEK: "False"
-      - uses: avinal/Profile-Readme-WakaTime@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          BRANCH: "main"
       - uses: denolib/setup-deno@v2
         with:
           deno-version: v1.x

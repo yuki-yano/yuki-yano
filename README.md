@@ -77,8 +77,6 @@
 
 ## Analysis
 
-[![wakatime_stat](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/images/stat.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/images/stat.svg)
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-284120%20lines%20of%20code-blue)
 
