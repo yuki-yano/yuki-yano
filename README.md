@@ -78,13 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-475594%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-475535%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 843 Contributions in the Year 2021
+> 🏆 845 Contributions in the Year 2021
  > 
-> 📦 155.6 kB Used in GitHub's Storage 
+> 📦 155.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,14 +109,14 @@
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               17 hrs 44 mins      ███████████████░░░░░░░░░░   62.29% 
-VimL                     8 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   30.69% 
-Other                    49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9% 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
-JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+TypeScript               14 hrs 39 mins      ███████████████░░░░░░░░░░   60.39% 
+VimL                     6 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.72% 
+Bash                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
+Other                    38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
 
 🔥 Editors: 
-Neovim                   28 hrs 28 mins      █████████████████████████   100.0%
+Neovim                   24 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
@@ -137,5 +137,5 @@ CoffeeScript             6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/10/2021
+ Last Updated on 17/10/2021
 <!--END_SECTION:waka-->
