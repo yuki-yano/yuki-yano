@@ -84,7 +84,7 @@
 
 > 🏆 862 Contributions in the Year 2021
  > 
-> 📦 160.2 kB Used in GitHub's Storage 
+> 📦 160.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -137,5 +137,5 @@ CoffeeScript             6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2021
+ Last Updated on 09/11/2021
 <!--END_SECTION:waka-->
