@@ -84,7 +84,7 @@
 
 > 🏆 862 Contributions in the Year 2021
  > 
-> 📦 162.2 kB Used in GitHub's Storage 
+> 📦 162.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,10 +109,15 @@
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    10 hrs 15 mins      ████████████████████████░   98.85% 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
+VimL                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
+help                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           10 hrs 15 mins      ████████████████████████░   98.85% 
+Neovim                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15%
 
 ```
 
@@ -133,5 +138,5 @@ CoffeeScript             6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/11/2021
+ Last Updated on 19/11/2021
 <!--END_SECTION:waka-->
