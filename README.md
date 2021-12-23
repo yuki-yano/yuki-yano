@@ -78,13 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-261%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-260%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,045 Contributions in the Year 2021
+> 🏆 1,072 Contributions in the Year 2021
  > 
-> 📦 149.7 kB Used in GitHub's Storage 
+> 📦 150.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,10 +95,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    172 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.96% 
-🌆 Daytime    498 commits    ████████████░░░░░░░░░░░░░   49.11% 
-🌃 Evening    284 commits    ███████░░░░░░░░░░░░░░░░░░   28.01% 
-🌙 Night      60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.92%
+🌞 Morning    191 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
+🌆 Daytime    498 commits    ████████████░░░░░░░░░░░░░   47.75% 
+🌃 Evening    294 commits    ███████░░░░░░░░░░░░░░░░░░   28.19% 
+🌙 Night      60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 
 ```
 
@@ -133,5 +133,5 @@ CoffeeScript             6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/12/2021
+ Last Updated on 23/12/2021
 <!--END_SECTION:waka-->
