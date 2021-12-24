@@ -82,9 +82,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,072 Contributions in the Year 2021
+> 🏆 1,073 Contributions in the Year 2021
  > 
-> 📦 150.0 kB Used in GitHub's Storage 
+> 📦 150.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,9 +95,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    191 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
-🌆 Daytime    498 commits    ████████████░░░░░░░░░░░░░   47.75% 
-🌃 Evening    294 commits    ███████░░░░░░░░░░░░░░░░░░   28.19% 
+🌞 Morning    191 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.3% 
+🌆 Daytime    498 commits    ████████████░░░░░░░░░░░░░   47.7% 
+🌃 Evening    295 commits    ███████░░░░░░░░░░░░░░░░░░   28.26% 
 🌙 Night      60 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 
 ```
@@ -133,5 +133,5 @@ CoffeeScript             6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/12/2021
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
