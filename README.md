@@ -78,13 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-261%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-262%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 40 Contributions in the Year 2022
+> 🏆 44 Contributions in the Year 2022
  > 
-> 📦 153.1 kB Used in GitHub's Storage 
+> 📦 153.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -133,5 +133,5 @@ CoffeeScript             6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/01/2022
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
