@@ -84,9 +84,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 139 Contributions in the Year 2022
+> 🏆 144 Contributions in the Year 2022
  > 
-> 📦 159.4 kB Used in GitHub's Storage 
+> 📦 159.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +97,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    238 commits    █████░░░░░░░░░░░░░░░░░░░░   23.04% 
-🌆 Daytime    512 commits    ████████████░░░░░░░░░░░░░   49.56% 
-🌃 Evening    235 commits    █████░░░░░░░░░░░░░░░░░░░░   22.75% 
-🌙 Night      48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+🌞 Morning    229 commits    █████░░░░░░░░░░░░░░░░░░░░   23.44% 
+🌆 Daytime    485 commits    ████████████░░░░░░░░░░░░░   49.64% 
+🌃 Evening    220 commits    █████░░░░░░░░░░░░░░░░░░░░   22.52% 
+🌙 Night      43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.4%
 
 ```
 
@@ -111,10 +111,10 @@
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 hrs 30 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          4 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -135,5 +135,5 @@ Vim script               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/08/2022 19:12:31 UTC
+ Last Updated on 13/08/2022 19:12:38 UTC
 <!--END_SECTION:waka-->
