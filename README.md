@@ -86,7 +86,7 @@
 
 > 🏆 144 Contributions in the Year 2022
  > 
-> 📦 159.4 kB Used in GitHub's Storage 
+> 📦 159.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,10 +111,10 @@
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       █████████████████████████   100.0%
+Other                    5 hrs 30 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          4 hrs 30 mins       █████████████████████████   100.0%
+Google Calendar          5 hrs 30 mins       █████████████████████████   100.0%
 
 ```
 
@@ -135,5 +135,5 @@ Vim script               7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 19:15:30 UTC
+ Last Updated on 16/08/2022 19:19:30 UTC
 <!--END_SECTION:waka-->
