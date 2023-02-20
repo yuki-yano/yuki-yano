@@ -86,7 +86,7 @@
 
 > 🏆 241 Contributions in the Year 2023
  > 
-> 📦 170.7 kB Used in GitHub's Storage 
+> 📦 169.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -135,5 +135,5 @@ Shell                    7 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2023 19:09:26 UTC
+ Last Updated on 20/02/2023 19:09:19 UTC
 <!--END_SECTION:waka-->
