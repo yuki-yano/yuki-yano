@@ -78,44 +78,42 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C377%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C378%20hrs%2058%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-835%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 241 Contributions in the Year 2023
+> 📦 169.4 kB Used in GitHub's Storage 
  > 
-> 📦 169.2 kB Used in GitHub's Storage 
+> 🏆 242 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 144 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning      275 commits       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-🌆 Daytime      591 commits       ████████████░░░░░░░░░░░░░   51.48 % 
-🌃 Evening      240 commits       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-🌙 Night         42 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-
+🌞 Morning                413 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+🌆 Daytime                1342 commits        ████████░░░░░░░░░░░░░░░░░   30.05 % 
+🌃 Evening                2169 commits        ████████████░░░░░░░░░░░░░   48.57 % 
+🌙 Night                  542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Tokyo
+🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        █████████████████████████   100.00 % 
+Other                    2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          1 hr 30 mins        █████████████████████████   100.00 % 
-
+Google Calendar          2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -123,17 +121,17 @@ Google Calendar          1 hr 30 mins        ███████████�
 ```text
 TypeScript               30 repos            ████████░░░░░░░░░░░░░░░░░   32.61 % 
 JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Ruby                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 Vim Script               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Shell                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2023 19:09:51 UTC
+ Last Updated on 23/02/2023 19:11:34 UTC
 <!--END_SECTION:waka-->
