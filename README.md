@@ -84,7 +84,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 173.6 kB Used in GitHub's Storage 
+> 📦 173.7 kB Used in GitHub's Storage 
  > 
 > 🏆 249 Contributions in the Year 2023
  > 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs 30 mins       █████████████████████████   100.00 % 
+Google Calendar          1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2023 19:36:58 UTC
+ Last Updated on 05/05/2023 19:41:07 UTC
 <!--END_SECTION:waka-->
