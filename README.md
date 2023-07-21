@@ -78,15 +78,15 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 178.5 kB Used in GitHub's Storage 
+> 📦 178.7 kB Used in GitHub's Storage 
  > 
-> 🏆 319 Contributions in the Year 2023
+> 🏆 320 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +97,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5386 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-🌆 Daytime                25909 commits       █████████████░░░░░░░░░░░░   50.16 % 
-🌃 Evening                17368 commits       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-🌙 Night                  2989 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+🌞 Morning                5420 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+🌆 Daytime                25945 commits       █████████████░░░░░░░░░░░░   50.15 % 
+🌃 Evening                17378 commits       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+🌙 Night                  2996 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    7 hrs 29 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 59 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          7 hrs 29 mins       █████████████████████████   100.00 % 
+Google Calendar          6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2023 19:35:25 UTC
+ Last Updated on 21/07/2023 19:34:58 UTC
 <!--END_SECTION:waka-->
