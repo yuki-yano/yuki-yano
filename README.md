@@ -78,15 +78,15 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C440%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 179.5 kB Used in GitHub's Storage 
+> 📦 179.7 kB Used in GitHub's Storage 
  > 
-> 🏆 332 Contributions in the Year 2023
+> 🏆 335 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +97,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-🌆 Daytime                25802 commits       █████████████░░░░░░░░░░░░   50.14 % 
-🌃 Evening                17384 commits       ████████░░░░░░░░░░░░░░░░░   33.78 % 
-🌙 Night                  2996 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+🌞 Morning                5335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+🌆 Daytime                25833 commits       █████████████░░░░░░░░░░░░   50.10 % 
+🌃 Evening                17403 commits       ████████░░░░░░░░░░░░░░░░░   33.75 % 
+🌙 Night                  2996 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    6 hrs 59 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          6 hrs 59 mins       █████████████████████████   100.00 % 
+Google Calendar          6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2023 19:32:42 UTC
+ Last Updated on 27/07/2023 19:33:34 UTC
 <!--END_SECTION:waka-->
