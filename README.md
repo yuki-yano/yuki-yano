@@ -78,13 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C507%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C509%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 187.5 kB Used in GitHub's Storage 
+> 📦 187.6 kB Used in GitHub's Storage 
  > 
 > 🏆 388 Contributions in the Year 2023
  > 
@@ -97,10 +97,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6575 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-🌆 Daytime                27095 commits       ████████████░░░░░░░░░░░░░   49.94 % 
-🌃 Evening                17580 commits       ████████░░░░░░░░░░░░░░░░░   32.40 % 
-🌙 Night                  3005 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+🌞 Morning                6629 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+🌆 Daytime                27157 commits       ████████████░░░░░░░░░░░░░   49.94 % 
+🌃 Evening                17585 commits       ████████░░░░░░░░░░░░░░░░░   32.34 % 
+🌙 Night                  3005 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs               █████████████████████████   100.00 % 
+Other                    10 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          9 hrs               █████████████████████████   100.00 % 
+Google Calendar          10 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2023 19:33:58 UTC
+ Last Updated on 11/11/2023 19:34:19 UTC
 <!--END_SECTION:waka-->
