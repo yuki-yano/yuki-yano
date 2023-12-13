@@ -84,7 +84,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 189.4 kB Used in GitHub's Storage 
+> 📦 189.6 kB Used in GitHub's Storage 
  > 
 > 🏆 388 Contributions in the Year 2023
  > 
@@ -94,6 +94,28 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5239 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+🌆 Daytime                17526 commits       ███████████░░░░░░░░░░░░░░   42.82 % 
+🌃 Evening                15168 commits       █████████░░░░░░░░░░░░░░░░   37.05 % 
+🌙 Night                  3001 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Other                    3 hrs 30 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          3 hrs 30 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -111,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 12/12/2023 19:30:39 UTC
+ Last Updated on 13/12/2023 19:30:37 UTC
 <!--END_SECTION:waka-->
