@@ -84,7 +84,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 191.4 kB Used in GitHub's Storage 
+> 📦 191.5 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -99,8 +99,8 @@
 ```text
 🌞 Morning                5194 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
 🌆 Daytime                17096 commits       ███████████░░░░░░░░░░░░░░   42.30 % 
-🌃 Evening                15127 commits       █████████░░░░░░░░░░░░░░░░   37.43 % 
-🌙 Night                  3001 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+🌃 Evening                15126 commits       █████████░░░░░░░░░░░░░░░░   37.42 % 
+🌙 Night                  3001 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    30 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2024 19:28:42 UTC
+ Last Updated on 03/01/2024 19:28:05 UTC
 <!--END_SECTION:waka-->
