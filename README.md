@@ -78,13 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C595%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C596%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 192.3 kB Used in GitHub's Storage 
+> 📦 192.4 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2024
  > 
@@ -119,10 +119,10 @@ Google Calendar          8 hrs               ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               39 repos            █████████░░░░░░░░░░░░░░░░   34.21 % 
-JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Lua                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Vim Script               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+TypeScript               39 repos            █████████░░░░░░░░░░░░░░░░   34.51 % 
+JavaScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Lua                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Vim Script               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 26/01/2024 19:26:11 UTC
+ Last Updated on 27/01/2024 19:26:02 UTC
 <!--END_SECTION:waka-->
