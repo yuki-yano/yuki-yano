@@ -78,11 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.4%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C704%20hrs%203%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 202.1 kB Used in GitHub's Storage 
+> 📦 202.4 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2024
  > 
@@ -95,10 +97,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4909 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-🌆 Daytime                16096 commits       ██████████░░░░░░░░░░░░░░░   41.40 % 
-🌃 Evening                14890 commits       ██████████░░░░░░░░░░░░░░░   38.30 % 
-🌙 Night                  2984 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+🌞 Morning                4909 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+🌆 Daytime                16109 commits       ██████████░░░░░░░░░░░░░░░   41.42 % 
+🌃 Evening                14890 commits       ██████████░░░░░░░░░░░░░░░   38.29 % 
+🌙 Night                  2984 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
 
 
@@ -108,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    5 hrs               █████████████████████████   100.00 % 
+Other                    5 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          5 hrs               █████████████████████████   100.00 % 
+Google Calendar          5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -131,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 19:31:23 UTC
+ Last Updated on 26/07/2024 19:28:40 UTC
 <!--END_SECTION:waka-->
