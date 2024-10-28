@@ -80,13 +80,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C756%20hrs%2048%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 209.0 kB Used in GitHub's Storage 
+> 📦 209.2 kB Used in GitHub's Storage 
  > 
-> 🏆 49 Contributions in the Year 2024
+> 🏆 50 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +97,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-🌆 Daytime                25376 commits       ████████████░░░░░░░░░░░░░   49.24 % 
-🌃 Evening                16831 commits       ████████░░░░░░░░░░░░░░░░░   32.66 % 
-🌙 Night                  2992 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+🌞 Morning                6349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+🌆 Daytime                25416 commits       ████████████░░░░░░░░░░░░░   49.26 % 
+🌃 Evening                16836 commits       ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌙 Night                  2993 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    3 hrs               █████████████████████████   100.00 % 
+Other                    2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          3 hrs               █████████████████████████   100.00 % 
+Google Calendar          2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2024 19:36:41 UTC
+ Last Updated on 28/10/2024 19:32:51 UTC
 <!--END_SECTION:waka-->
