@@ -78,13 +78,11 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C759%20hrs%2048%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-42.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 210.2 kB Used in GitHub's Storage 
+> 📦 210.4 kB Used in GitHub's Storage 
  > 
 > 🏆 55 Contributions in the Year 2024
  > 
@@ -133,5 +131,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 19:35:38 UTC
+ Last Updated on 03/11/2024 19:31:03 UTC
 <!--END_SECTION:waka-->
