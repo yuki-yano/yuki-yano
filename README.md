@@ -78,13 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C788%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C790%20hrs%2018%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 214.2 kB Used in GitHub's Storage 
+> 📦 214.4 kB Used in GitHub's Storage 
  > 
 > 🏆 58 Contributions in the Year 2024
  > 
@@ -97,9 +97,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6350 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-🌆 Daytime                25411 commits       ████████████░░░░░░░░░░░░░   49.27 % 
-🌃 Evening                16826 commits       ████████░░░░░░░░░░░░░░░░░   32.62 % 
+🌞 Morning                6355 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+🌆 Daytime                25432 commits       ████████████░░░░░░░░░░░░░   49.28 % 
+🌃 Evening                16826 commits       ████████░░░░░░░░░░░░░░░░░   32.61 % 
 🌙 Night                  2992 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 ```
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    7 hrs               █████████████████████████   100.00 % 
+Other                    6 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          7 hrs               █████████████████████████   100.00 % 
+Google Calendar          6 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2024 19:36:32 UTC
+ Last Updated on 24/12/2024 19:33:47 UTC
 <!--END_SECTION:waka-->
