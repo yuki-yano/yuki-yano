@@ -84,9 +84,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 213.8 kB Used in GitHub's Storage 
+> 📦 214.0 kB Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,8 +98,8 @@
 
 ```text
 🌞 Morning                6281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-🌆 Daytime                24911 commits       ████████████░░░░░░░░░░░░░   48.94 % 
-🌃 Evening                16720 commits       ████████░░░░░░░░░░░░░░░░░   32.85 % 
+🌆 Daytime                24912 commits       ████████████░░░░░░░░░░░░░   48.94 % 
+🌃 Evening                16720 commits       ████████░░░░░░░░░░░░░░░░░   32.84 % 
 🌙 Night                  2993 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 19:34:10 UTC
+ Last Updated on 01/01/2025 19:37:41 UTC
 <!--END_SECTION:waka-->
