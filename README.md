@@ -80,27 +80,27 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C813%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 216.5 kB Used in GitHub's Storage 
+> 📦 216.7 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2025
+> 🏆 17 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 152 Public Repositories 
+> 📜 153 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6275 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-🌆 Daytime                24750 commits       ████████████░░░░░░░░░░░░░   48.78 % 
-🌃 Evening                16713 commits       ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌙 Night                  2997 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+🌞 Morning                6313 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+🌆 Daytime                24983 commits       ████████████░░░░░░░░░░░░░   48.94 % 
+🌃 Evening                16758 commits       ████████░░░░░░░░░░░░░░░░░   32.83 % 
+🌙 Night                  2997 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    4 hrs               █████████████████████████   100.00 % 
+Other                    7 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          4 hrs               █████████████████████████   100.00 % 
+Google Calendar          7 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 19:35:14 UTC
+ Last Updated on 22/01/2025 19:35:14 UTC
 <!--END_SECTION:waka-->
