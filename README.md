@@ -78,67 +78,38 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C019%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C827%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-266%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 189 Contributions in the Year 2022
+> 📦 217.8 kB Used in GitHub's Storage 
  > 
-> 📦 159.7 kB Used in GitHub's Storage 
+> 🏆 54 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 119 Public Repositories 
+> 📜 157 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    234 commits    █████░░░░░░░░░░░░░░░░░░░░   23.1% 
-🌆 Daytime    518 commits    ████████████░░░░░░░░░░░░░   51.14% 
-🌃 Evening    219 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62% 
-🌙 Night      42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.15%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-TypeScript               15 hrs 39 mins      █████████████░░░░░░░░░░░░   53.86% 
-Vim Script               8 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.08% 
-Other                    2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
-JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
-Lua                      42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
-
-🔥 Editors: 
-Neovim                   27 hrs 4 mins       ███████████████████████░░   93.12% 
-Google Calendar          2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   6.88%
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            ███████░░░░░░░░░░░░░░░░░░   28.75% 
-JavaScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Ruby                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
-Shell                    7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-Vim script               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75%
-
+TypeScript               46 repos            ██████████░░░░░░░░░░░░░░░   39.32 % 
+JavaScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Vim Script               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Lua                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2022 19:14:50 UTC
+ Last Updated on 05/02/2025 19:28:38 UTC
 <!--END_SECTION:waka-->
