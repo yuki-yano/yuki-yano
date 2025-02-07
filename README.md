@@ -80,13 +80,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C827%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 217.8 kB Used in GitHub's Storage 
+> 📦 218.0 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2025
+> 🏆 57 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,13 +94,35 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5937 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+🌆 Daytime                20983 commits       ████████████░░░░░░░░░░░░░   46.60 % 
+🌃 Evening                15108 commits       ████████░░░░░░░░░░░░░░░░░   33.55 % 
+🌙 Night                  3002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+Other                    5 hrs               █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Google Calendar          5 hrs               █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               46 repos            ██████████░░░░░░░░░░░░░░░   39.32 % 
-JavaScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Vim Script               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Lua                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+TypeScript               46 repos            ██████████░░░░░░░░░░░░░░░   38.98 % 
+JavaScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Vim Script               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Lua                      7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
@@ -111,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2025 19:28:38 UTC
+ Last Updated on 07/02/2025 19:26:58 UTC
 <!--END_SECTION:waka-->
