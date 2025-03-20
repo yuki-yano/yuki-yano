@@ -78,13 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C871%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C874%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 219.5 kB Used in GitHub's Storage 
+> 📦 219.7 kB Used in GitHub's Storage 
  > 
 > 🏆 65 Contributions in the Year 2025
  > 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    10 hrs              █████████████████████████   100.00 % 
+Other                    8 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          10 hrs              █████████████████████████   100.00 % 
+Google Calendar          8 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 19:36:48 UTC
+ Last Updated on 20/03/2025 19:36:28 UTC
 <!--END_SECTION:waka-->
