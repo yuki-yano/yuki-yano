@@ -78,28 +78,28 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C972%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C974%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 221.7 kB Used in GitHub's Storage 
+> 📦 221.9 kB Used in GitHub's Storage 
  > 
-> 🏆 160 Contributions in the Year 2025
+> 🏆 174 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 161 Public Repositories 
+> 📜 163 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6640 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-🌆 Daytime                26255 commits       ████████████░░░░░░░░░░░░░   49.65 % 
-🌃 Evening                16987 commits       ████████░░░░░░░░░░░░░░░░░   32.12 % 
+🌞 Morning                6641 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+🌆 Daytime                26267 commits       ████████████░░░░░░░░░░░░░   49.66 % 
+🌃 Evening                16987 commits       ████████░░░░░░░░░░░░░░░░░   32.11 % 
 🌙 Night                  3002 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
@@ -119,11 +119,11 @@ Google Calendar          10 hrs 30 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               48 repos            ██████████░░░░░░░░░░░░░░░   38.40 % 
-JavaScript               20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Lua                      9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Vim Script               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript               48 repos            █████████░░░░░░░░░░░░░░░░   37.80 % 
+JavaScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Lua                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Vim Script               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2025 19:33:56 UTC
+ Last Updated on 22/06/2025 19:34:50 UTC
 <!--END_SECTION:waka-->
