@@ -78,15 +78,15 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C983%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C984%20hrs%203%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 222.9 kB Used in GitHub's Storage 
+> 📦 223.1 kB Used in GitHub's Storage 
  > 
-> 🏆 290 Contributions in the Year 2025
+> 🏆 303 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,9 +97,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-🌆 Daytime                28475 commits       ████████████░░░░░░░░░░░░░   47.80 % 
-🌃 Evening                19471 commits       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+🌞 Morning                7998 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+🌆 Daytime                28484 commits       ████████████░░░░░░░░░░░░░   47.81 % 
+🌃 Evening                19471 commits       ████████░░░░░░░░░░░░░░░░░   32.68 % 
 🌙 Night                  3628 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 ```
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    12 hrs              █████████████████████████   100.00 % 
+Other                    12 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          12 hrs              █████████████████████████   100.00 % 
+Google Calendar          12 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 19:37:50 UTC
+ Last Updated on 27/06/2025 19:37:02 UTC
 <!--END_SECTION:waka-->
