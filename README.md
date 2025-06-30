@@ -80,13 +80,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 223.7 kB Used in GitHub's Storage 
+> 📦 224.0 kB Used in GitHub's Storage 
  > 
-> 🏆 362 Contributions in the Year 2025
+> 🏆 388 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +97,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8007 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-🌆 Daytime                28556 commits       ████████████░░░░░░░░░░░░░   47.84 % 
-🌃 Evening                19496 commits       ████████░░░░░░░░░░░░░░░░░   32.66 % 
-🌙 Night                  3629 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+🌞 Morning                8003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+🌆 Daytime                28558 commits       ████████████░░░░░░░░░░░░░   47.83 % 
+🌃 Evening                19504 commits       ████████░░░░░░░░░░░░░░░░░   32.67 % 
+🌙 Night                  3640 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    12 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    11 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          12 hrs 30 mins      █████████████████████████   100.00 % 
+Google Calendar          11 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2025 19:41:05 UTC
+ Last Updated on 30/06/2025 19:36:57 UTC
 <!--END_SECTION:waka-->
