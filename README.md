@@ -78,15 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2033%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 224.0 kB Used in GitHub's Storage 
+> 📦 224.4 kB Used in GitHub's Storage 
  > 
-> 🏆 388 Contributions in the Year 2025
+> 🏆 427 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,10 +95,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-🌆 Daytime                28558 commits       ████████████░░░░░░░░░░░░░   47.83 % 
-🌃 Evening                19504 commits       ████████░░░░░░░░░░░░░░░░░   32.67 % 
-🌙 Night                  3640 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+🌞 Morning                8020 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌆 Daytime                28558 commits       ████████████░░░░░░░░░░░░░   47.81 % 
+🌃 Evening                19511 commits       ████████░░░░░░░░░░░░░░░░░   32.66 % 
+🌙 Night                  3646 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 ```
 
 
@@ -110,10 +108,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    11 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    9 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          11 hrs 30 mins      █████████████████████████   100.00 % 
+Google Calendar          9 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +131,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 19:36:57 UTC
+ Last Updated on 01/07/2025 19:42:50 UTC
 <!--END_SECTION:waka-->
