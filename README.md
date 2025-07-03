@@ -78,29 +78,29 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C989%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C992%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 224.5 kB Used in GitHub's Storage 
+> 📦 223.0 kB Used in GitHub's Storage 
  > 
-> 🏆 434 Contributions in the Year 2025
+> 🏆 440 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 168 Public Repositories 
+> 📜 169 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6170 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-🌆 Daytime                26424 commits       ████████████░░░░░░░░░░░░░   49.04 % 
-🌃 Evening                17969 commits       ████████░░░░░░░░░░░░░░░░░   33.35 % 
-🌙 Night                  3324 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+🌞 Morning                6183 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+🌆 Daytime                26479 commits       ████████████░░░░░░░░░░░░░   49.06 % 
+🌃 Evening                17974 commits       ████████░░░░░░░░░░░░░░░░░   33.30 % 
+🌙 Night                  3332 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 ```
 
 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 19:37:16 UTC
+ Last Updated on 03/07/2025 19:37:31 UTC
 <!--END_SECTION:waka-->
