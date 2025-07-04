@@ -78,29 +78,29 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C992%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C993%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 223.0 kB Used in GitHub's Storage 
+> 📦 223.3 kB Used in GitHub's Storage 
  > 
-> 🏆 440 Contributions in the Year 2025
+> 🏆 445 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 169 Public Repositories 
+> 📜 170 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6183 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-🌆 Daytime                26479 commits       ████████████░░░░░░░░░░░░░   49.06 % 
-🌃 Evening                17974 commits       ████████░░░░░░░░░░░░░░░░░   33.30 % 
-🌙 Night                  3332 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+🌞 Morning                6184 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+🌆 Daytime                26422 commits       ████████████░░░░░░░░░░░░░   49.01 % 
+🌃 Evening                17971 commits       ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  3338 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    9 hrs 30 mins       █████████████████████████   100.00 % 
+Other                    8 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          9 hrs 30 mins       █████████████████████████   100.00 % 
+Google Calendar          8 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 19:37:31 UTC
+ Last Updated on 04/07/2025 19:41:30 UTC
 <!--END_SECTION:waka-->
