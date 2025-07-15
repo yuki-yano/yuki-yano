@@ -78,13 +78,13 @@
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C005%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C014%20hrs%2033%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 225.0 kB Used in GitHub's Storage 
+> 📦 225.1 kB Used in GitHub's Storage 
  > 
 > 🏆 495 Contributions in the Year 2025
  > 
@@ -97,10 +97,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6233 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                26573 commits       ████████████░░░░░░░░░░░░░   48.99 % 
+🌞 Morning                6232 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                26569 commits       ████████████░░░░░░░░░░░░░   48.98 % 
 🌃 Evening                18041 commits       ████████░░░░░░░░░░░░░░░░░   33.26 % 
-🌙 Night                  3396 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+🌙 Night                  3402 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 
@@ -110,10 +110,10 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    19 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    16 hrs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          19 hrs 30 mins      █████████████████████████   100.00 % 
+Google Calendar          16 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -133,5 +133,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 19:44:27 UTC
+ Last Updated on 15/07/2025 19:41:22 UTC
 <!--END_SECTION:waka-->
