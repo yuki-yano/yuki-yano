@@ -7,9 +7,9 @@
 [![github_follow](https://img.shields.io/github/followers/yuki-yano?label=follow&logo=github&style=flat)](https://github.com/yuki-yano)
 [![qiita_posts](https://qiita-badge.apiapi.app/s/yuki-yano/posts.svg)](http://qiita.com/yuki-yano)
 [![qiita_contributors](https://qiita-badge.apiapi.app/s/yuki-yano/contributions.svg)](http://qiita.com/yuki-yano)
-[![zenn_articles](https://zenn.badge.nikaera.com/s/yano/articles?style=plastic)](https://zenn.dev/yano)
-[![zenn_liked](https://zenn.badge.nikaera.com/s/yano/likes?style=plastic)](https://zenn.dev/yano)
-[![zenn_followers](https://zenn.badge.nikaera.com/s/yano/followers?style=plastic)](https://zenn.dev/yano)
+[![zenn_articles](https://zenn-badge.nikaera.com/s/yano/articles?style=plastic)](https://zenn.dev/yano)
+[![zenn_liked](https://zenn-badge.nikaera.com/s/yano/likes?style=plastic)](https://zenn.dev/yano)
+[![zenn_followers](https://zenn-badge.nikaera.com/s/yano/followers?style=plastic)](https://zenn.dev/yano)
 [![reddit_count](https://img.shields.io/reddit/user-karma/combined/yuki-ycino?label=Reddit&logo=reddit&style=flat)](https://www.reddit.com/user/yuki-ycino)
 
 ## Skils
