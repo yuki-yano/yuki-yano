@@ -3,10 +3,10 @@
 [![Update Readme](https://github.com/yuki-yano/yuki-yano/workflows/Update%20Readme/badge.svg)](https://github.com/yuki-yano/yuki-yano/actions?query=workflow%3A%22Update+Readme%22)
 
 [![github_views](https://komarev.com/ghpvc/?username=yuki-yano)](https://github.com/yuki-yano/yuki-yano/)
-[![twitter](https://img.shields.io/twitter/follow/yuki_ycino?label=Twitter&logo=twitter&style=flat)](http://twitter.com/yuki_ycino)
+[![twitter](https://img.shields.io/twitter/follow/yuki_ycino?label=Twitter&logo=twitter&style=flat)](https://x.com/yuki_ycino)
 [![github_follow](https://img.shields.io/github/followers/yuki-yano?label=follow&logo=github&style=flat)](https://github.com/yuki-yano)
-[![qiita_posts](https://qiita-badge.apiapi.app/s/yuki-yano/posts.svg)](http://qiita.com/yuki-yano)
-[![qiita_contributors](https://qiita-badge.apiapi.app/s/yuki-yano/contributions.svg)](http://qiita.com/yuki-yano)
+[![qiita_posts](https://qiita-badge.apiapi.app/s/yuki-yano/posts.svg)](https://qiita.com/yuki-yano)
+[![qiita_contributors](https://qiita-badge.apiapi.app/s/yuki-yano/contributions.svg)](https://qiita.com/yuki-yano)
 [![zenn_articles](https://zenn-badge.nikaera.com/s/yano/articles?style=plastic)](https://zenn.dev/yano)
 [![zenn_liked](https://zenn-badge.nikaera.com/s/yano/likes?style=plastic)](https://zenn.dev/yano)
 [![zenn_followers](https://zenn-badge.nikaera.com/s/yano/followers?style=plastic)](https://zenn.dev/yano)
@@ -48,37 +48,22 @@
 
 ![Metrics](https://github.com/yuki-yano/yuki-yano/blob/main/github-metrics.svg)
 
-## Status
-
-<a href="https://github-readme-stats.vercel.app/api?username=yuki-yano&show_icons=true">
-  <img height="150px" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=yuki-yano&show_icons=true">
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-yano&layout=compact">
-  <img height="150px" alt="most_language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki-yano&layout=compact">
-</a>
-
-[![github_trophy](https://github-profile-trophy.vercel.app/?username=yuki-yano&row=1&column=8)](https://github-profile-trophy.vercel.app/?username=yuki-yano&row=1&column=8)
-[![github_detail](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/0-profile-details.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/0-profile-details.svg)
-[![github_top_language_repos](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/1-repos-per-language.svg)
-[![github_most_commit_language](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/profile-summary-card-output/github/2-most-commit-language.svg)
-
 ## Lapras
 
 [![lapras_score](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/lapras/score.png)](https://lapras.com/public/Y5XCY3M)
 
 ## Main repositories
 
-[![fzf-preview.vim](https://github-readme-stats.vercel.app/api/pin/?username=yuki-yano&repo=fzf-preview.vim)](https://github.com/yuki-yano/fzf-preview.vim)
-[![zeno.zsh](https://github-readme-stats.vercel.app/api/pin/?username=yuki-yano&repo=zeno.zsh)](https://github.com/yuki-yano/zeno.zsh)
-
-[![ftg-reversal](https://github-readme-stats.vercel.app/api/pin/?username=ftg-reversal&repo=reversal)](https://github.com/ftg-reversal/reversal)
-[![imecoletter](https://github-readme-stats.vercel.app/api/pin/?username=yuki-yano&repo=imecoletter)](https://github.com/yuki-yano/imecoletter)
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=yukiycino-dotfiles&repo=dotfiles)](https://github.com/yukiycino-dotfiles/dotfiles)
+- [fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim)
+- [zeno.zsh](https://github.com/yuki-yano/zeno.zsh)
+- [reversal](https://github.com/ftg-reversal/reversal)
+- [imecoletter](https://github.com/yuki-yano/imecoletter)
+- [dotfiles](https://github.com/yuki-yano/dotfiles)
 
 ## Analysis
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C023%20hrs%203%20mins-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-2%2C827%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.4%20million%20lines%20of%20code-blue)
 

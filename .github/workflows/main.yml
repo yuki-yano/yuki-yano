@@ -27,7 +27,7 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_DAYS_OF_WEEK: "False"
-      - uses: denolib/setup-deno@v2
+      - uses: denoland/setup-deno@v2
         with:
           deno-version: v1.x
       - run: deno run --unstable --allow-net --allow-read --allow-write scripts/fetch_lapras_score.ts
