@@ -3,7 +3,7 @@
 [![Profile Update](https://github.com/yuki-yano/yuki-yano/actions/workflows/profile-update.yml/badge.svg)](https://github.com/yuki-yano/yuki-yano/actions/workflows/profile-update.yml)
 
 [![github_views](https://komarev.com/ghpvc/?username=yuki-yano)](https://github.com/yuki-yano/yuki-yano/)
-[![twitter](https://img.shields.io/twitter/follow/yuki_ycino?label=Twitter&logo=twitter&style=flat)](https://x.com/yuki_ycino)
+[![x](https://img.shields.io/badge/X-@yuki__ycino-111111?logo=x&logoColor=white&style=flat)](https://x.com/yuki_ycino)
 [![github_follow](https://img.shields.io/github/followers/yuki-yano?label=follow&logo=github&style=flat)](https://github.com/yuki-yano)
 [![qiita_posts](https://qiita-badge.apiapi.app/s/yuki-yano/posts.svg)](https://qiita.com/yuki-yano)
 [![qiita_contributors](https://qiita-badge.apiapi.app/s/yuki-yano/contributions.svg)](https://qiita.com/yuki-yano)
