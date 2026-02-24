@@ -35,7 +35,7 @@ jobs:
         uses: lowlighter/metrics@v3.34
         with:
           user: yuki-yano
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN != '' && secrets.GH_TOKEN || github.token }}
           filename: github-metrics.svg
           output_action: none
           template: classic
