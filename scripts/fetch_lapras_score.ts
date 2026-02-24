@@ -1,21 +1,35 @@
-import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
-import { existsSync } from "https://deno.land/std/fs/mod.ts";
+import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.56/deno-dom-wasm.ts";
 
-const response = await fetch("https://lapras.com/public/Y5XCY3M");
-const html = await response.text();
+const PROFILE_URL = "https://lapras.com/public/Y5XCY3M";
+const OUTPUT_DIR = "lapras";
+const OUTPUT_PATH = `${OUTPUT_DIR}/score.png`;
+
+const fetchText = async (url: string): Promise<string> => {
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch HTML (${response.status}): ${url}`);
+  }
+  return await response.text();
+};
+
+const fetchBytes = async (url: string): Promise<Uint8Array> => {
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch image (${response.status}): ${url}`);
+  }
+  return new Uint8Array(await response.arrayBuffer());
+};
+
+const html = await fetchText(PROFILE_URL);
 const doc = new DOMParser().parseFromString(html, "text/html");
-
 const thumbnailUrl = doc?.querySelector("meta[name='twitter:image']")
   ?.getAttribute("content");
 
-if (thumbnailUrl == null) {
-  Deno.exit(1);
+if (!thumbnailUrl) {
+  throw new Error("twitter:image meta tag not found on LAPRAS profile page");
 }
 
-const imageResponse = await fetch(thumbnailUrl);
-const imageBytes = new Uint8Array(await imageResponse.arrayBuffer());
-
-if (!existsSync("./lapras")) {
-  Deno.mkdirSync("./lapras");
-}
-Deno.writeFileSync("./lapras/score.png", imageBytes);
+const imageBytes = await fetchBytes(thumbnailUrl);
+await Deno.mkdir(OUTPUT_DIR, { recursive: true });
+await Deno.writeFile(OUTPUT_PATH, imageBytes);
+console.log(`updated ${OUTPUT_PATH}`);

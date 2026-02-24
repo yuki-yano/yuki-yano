@@ -34,7 +34,7 @@ jobs:
       - name: Update repository cards
         env:
           GITHUB_TOKEN: ${{ github.token }}
-        run: deno run --allow-net --allow-write --allow-env scripts/generate_repo_cards.ts
+        run: deno run --allow-net --allow-read --allow-write --allow-env scripts/generate_repo_cards.ts
 
       - name: Update GitHub metrics
         uses: lowlighter/metrics@v3.34
@@ -91,13 +91,13 @@ jobs:
 
       - name: Commit and push
         run: |
-          if [[ -z "$(git status --porcelain)" ]]; then
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git pull --ff-only
+          git add github-metrics.svg lapras/score.png assets/repo-cards/*.svg
+          if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
-
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config user.name "github-actions[bot]"
-          git add github-metrics.svg lapras/score.png assets/repo-cards/*.svg
           git commit -m "chore(profile): update generated assets"
           git push

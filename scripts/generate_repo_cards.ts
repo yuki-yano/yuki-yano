@@ -7,8 +7,18 @@ const REPOSITORIES = [
   "dotfiles",
 ] as const;
 
+const DESCRIPTION_OVERRIDES: Record<(typeof REPOSITORIES)[number], string> = {
+  "zeno.zsh": "zsh fuzzy completion and utility plugin with Deno.",
+  "vde-monitor": "Developer environment monitor and status tooling.",
+  "vde-layout": "Layout utilities for development environment operations.",
+  "fzf-preview.vim": "Powerful integration between fzf and (Neo)vim.",
+  "dotfiles": "My configuration files.",
+};
+
 const OUTPUT_DIR = "assets/repo-cards";
 const GITHUB_API_BASE = "https://api.github.com/repos";
+const FETCH_RETRIES = 3;
+const RETRY_DELAY_MS = 1000;
 
 type RepoApiResponse = {
   name: string;
@@ -39,11 +49,17 @@ const truncate = (value: string, max: number): string =>
   value.length <= max ? value : `${value.slice(0, max - 1)}...`;
 
 const formatDate = (iso: string): string => iso.slice(0, 10);
+const formatStars = (count: number): string => count.toLocaleString("en-US");
+
+const sleep = (ms: number): Promise<void> =>
+  new Promise((resolve) => setTimeout(resolve, ms));
 
 const cardSvg = (repo: RepoApiResponse): string => {
-  const description = truncate(repo.description ?? "No description provided.", 88);
+  const fallback = DESCRIPTION_OVERRIDES[repo.name as (typeof REPOSITORIES)[number]];
+  const description = truncate(repo.description ?? fallback ?? "No description provided.", 88);
   const language = repo.language ?? "Unknown";
   const pushed = formatDate(repo.pushed_at);
+  const stars = formatStars(repo.stargazers_count);
 
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="${escapeXml(repo.name)} repository card">
@@ -65,7 +81,7 @@ const cardSvg = (repo: RepoApiResponse): string => {
   </defs>
   <rect width="560" height="180" rx="20" fill="url(#card-bg)"/>
   <rect x="400" y="16" width="136" height="30" rx="15" fill="url(#chip-bg)"/>
-  <text x="418" y="36" class="meta">★ ${repo.stargazers_count}</text>
+  <text x="418" y="36" class="meta">★ ${stars}</text>
   <text x="24" y="48" class="title">${escapeXml(repo.name)}</text>
   <text x="24" y="82" class="desc">${escapeXml(description)}</text>
   <text x="24" y="120" class="meta">last push: ${pushed}</text>
@@ -77,12 +93,24 @@ const cardSvg = (repo: RepoApiResponse): string => {
 
 const fetchRepository = async (name: string): Promise<RepoApiResponse> => {
   const endpoint = `${GITHUB_API_BASE}/${OWNER}/${name}`;
-  const response = await fetch(endpoint, { headers });
-  if (!response.ok) {
+
+  for (let attempt = 1; attempt <= FETCH_RETRIES; attempt++) {
+    const response = await fetch(endpoint, { headers });
+    if (response.ok) {
+      return await response.json() as RepoApiResponse;
+    }
+
     const body = await response.text();
-    throw new Error(`Failed to fetch ${OWNER}/${name}: ${response.status} ${body}`);
+    const message = `Failed to fetch ${OWNER}/${name}: ${response.status} ${body}`;
+    if (attempt >= FETCH_RETRIES) {
+      throw new Error(message);
+    }
+
+    console.warn(`${message} (retry ${attempt}/${FETCH_RETRIES})`);
+    await sleep(RETRY_DELAY_MS * attempt);
   }
-  return await response.json() as RepoApiResponse;
+
+  throw new Error(`Unreachable: fetch retries exhausted for ${OWNER}/${name}`);
 };
 
 await Deno.mkdir(OUTPUT_DIR, { recursive: true });
@@ -91,6 +119,11 @@ for (const name of REPOSITORIES) {
   const repo = await fetchRepository(name);
   const svg = cardSvg(repo);
   const outputPath = `${OUTPUT_DIR}/${name}.svg`;
+  const existing = await Deno.readTextFile(outputPath).catch(() => "");
+  if (existing === svg) {
+    console.log(`unchanged ${outputPath}`);
+    continue;
+  }
   await Deno.writeTextFile(outputPath, svg);
   console.log(`updated ${outputPath}`);
 }
