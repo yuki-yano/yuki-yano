@@ -1,0 +1,96 @@
+const OWNER = "yuki-yano";
+const REPOSITORIES = [
+  "zeno.zsh",
+  "vde-monitor",
+  "vde-layout",
+  "fzf-preview.vim",
+  "dotfiles",
+] as const;
+
+const OUTPUT_DIR = "assets/repo-cards";
+const GITHUB_API_BASE = "https://api.github.com/repos";
+
+type RepoApiResponse = {
+  name: string;
+  html_url: string;
+  description: string | null;
+  stargazers_count: number;
+  pushed_at: string;
+  language: string | null;
+};
+
+const token = Deno.env.get("GITHUB_TOKEN") ?? "";
+
+const headers: HeadersInit = {
+  "Accept": "application/vnd.github+json",
+  "User-Agent": "yuki-yano-profile-readme-bot",
+};
+if (token) headers["Authorization"] = `Bearer ${token}`;
+
+const escapeXml = (value: string): string =>
+  value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+
+const truncate = (value: string, max: number): string =>
+  value.length <= max ? value : `${value.slice(0, max - 1)}...`;
+
+const formatDate = (iso: string): string => iso.slice(0, 10);
+
+const cardSvg = (repo: RepoApiResponse): string => {
+  const description = truncate(repo.description ?? "No description provided.", 88);
+  const language = repo.language ?? "Unknown";
+  const pushed = formatDate(repo.pushed_at);
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="${escapeXml(repo.name)} repository card">
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <linearGradient id="chip-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dbeafe"/>
+      <stop offset="100%" stop-color="#e0f2fe"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 26px "Avenir Next", "Segoe UI", sans-serif; fill: #0f172a; }
+      .desc { font: 500 15px "Avenir Next", "Segoe UI", sans-serif; fill: #475569; }
+      .meta { font: 600 14px "SF Mono", Menlo, Consolas, monospace; fill: #334155; }
+      .lang { font: 700 13px "SF Mono", Menlo, Consolas, monospace; fill: #0f172a; }
+    </style>
+  </defs>
+  <rect width="560" height="180" rx="20" fill="url(#card-bg)"/>
+  <rect x="400" y="16" width="136" height="30" rx="15" fill="url(#chip-bg)"/>
+  <text x="418" y="36" class="meta">★ ${repo.stargazers_count}</text>
+  <text x="24" y="48" class="title">${escapeXml(repo.name)}</text>
+  <text x="24" y="82" class="desc">${escapeXml(description)}</text>
+  <text x="24" y="120" class="meta">last push: ${pushed}</text>
+  <circle cx="24" cy="148" r="6" fill="#2563eb"/>
+  <text x="38" y="153" class="lang">${escapeXml(language)}</text>
+</svg>
+`;
+};
+
+const fetchRepository = async (name: string): Promise<RepoApiResponse> => {
+  const endpoint = `${GITHUB_API_BASE}/${OWNER}/${name}`;
+  const response = await fetch(endpoint, { headers });
+  if (!response.ok) {
+    const body = await response.text();
+    throw new Error(`Failed to fetch ${OWNER}/${name}: ${response.status} ${body}`);
+  }
+  return await response.json() as RepoApiResponse;
+};
+
+await Deno.mkdir(OUTPUT_DIR, { recursive: true });
+
+for (const name of REPOSITORIES) {
+  const repo = await fetchRepository(name);
+  const svg = cardSvg(repo);
+  const outputPath = `${OUTPUT_DIR}/${name}.svg`;
+  await Deno.writeTextFile(outputPath, svg);
+  console.log(`updated ${outputPath}`);
+}

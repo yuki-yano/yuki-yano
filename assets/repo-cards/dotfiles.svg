@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="dotfiles repository card">
+  <defs>
+    <linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#eef2ff"/>
+    </linearGradient>
+    <linearGradient id="chip-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#dbeafe"/>
+      <stop offset="100%" stop-color="#e0f2fe"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 26px "Avenir Next", "Segoe UI", sans-serif; fill: #0f172a; }
+      .desc { font: 500 15px "Avenir Next", "Segoe UI", sans-serif; fill: #475569; }
+      .meta { font: 600 14px "SF Mono", Menlo, Consolas, monospace; fill: #334155; }
+      .lang { font: 700 13px "SF Mono", Menlo, Consolas, monospace; fill: #0f172a; }
+    </style>
+  </defs>
+  <rect width="560" height="180" rx="20" fill="url(#card-bg)"/>
+  <rect x="400" y="16" width="136" height="30" rx="15" fill="url(#chip-bg)"/>
+  <text x="418" y="36" class="meta">★ 61</text>
+  <text x="24" y="48" class="title">dotfiles</text>
+  <text x="24" y="82" class="desc">My configuration files.</text>
+  <text x="24" y="120" class="meta">last push: 2026-02-24</text>
+  <circle cx="24" cy="148" r="6" fill="#2563eb"/>
+  <text x="38" y="153" class="lang">Lua</text>
+</svg>

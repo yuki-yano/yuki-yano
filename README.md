@@ -54,8 +54,20 @@
 
 ## Main repositories
 
-- [fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim)
-- [zeno.zsh](https://github.com/yuki-yano/zeno.zsh)
-- [reversal](https://github.com/ftg-reversal/reversal)
-- [imecoletter](https://github.com/yuki-yano/imecoletter)
-- [dotfiles](https://github.com/yuki-yano/dotfiles)
+<p align="left">
+  <a href="https://github.com/yuki-yano/zeno.zsh">
+    <img src="./assets/repo-cards/zeno.zsh.svg" alt="zeno.zsh" width="49%" />
+  </a>
+  <a href="https://github.com/yuki-yano/vde-monitor">
+    <img src="./assets/repo-cards/vde-monitor.svg" alt="vde-monitor" width="49%" />
+  </a>
+  <a href="https://github.com/yuki-yano/vde-layout">
+    <img src="./assets/repo-cards/vde-layout.svg" alt="vde-layout" width="49%" />
+  </a>
+  <a href="https://github.com/yuki-yano/fzf-preview.vim">
+    <img src="./assets/repo-cards/fzf-preview.vim.svg" alt="fzf-preview.vim" width="49%" />
+  </a>
+  <a href="https://github.com/yuki-yano/dotfiles">
+    <img src="./assets/repo-cards/dotfiles.svg" alt="dotfiles" width="49%" />
+  </a>
+</p>
