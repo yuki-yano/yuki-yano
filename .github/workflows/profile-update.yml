@@ -1,53 +1,52 @@
-name: Update Readme
+name: Profile Update
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: "0 19 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-update-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "False"
-      - uses: denoland/setup-deno@v2
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
         with:
           deno-version: v1.x
-      - run: deno run --unstable --allow-net --allow-read --allow-write scripts/fetch_lapras_score.ts
-      - run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git config --global pull.ff only
-      - run: git pull
-      - run: git add lapras/score.png
-      - run: git commit -m "Update lapras score" || echo "No change lapras score"
-      - run: git push origin main
-      - uses: lowlighter/metrics@latest     
+
+      - name: Update Lapras image
+        run: deno run --allow-net --allow-read --allow-write scripts/fetch_lapras_score.ts
+
+      - name: Update GitHub metrics
+        uses: lowlighter/metrics@v3.34
         with:
           user: yuki-yano
           token: ${{ secrets.GH_TOKEN }}
+          filename: github-metrics.svg
+          output_action: none
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Tokyo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 14
+          plugin_activity_timestamps: yes
           plugin_achievements: yes
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
@@ -58,10 +57,17 @@ jobs:
           plugin_habits_charts: yes
           plugin_followup: yes
           plugin_followup_sections: repositories
+          plugin_followup_indepth: yes
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_threshold: 0%
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_lines: yes
+          plugin_lines_sections: base, repositories
+          plugin_stars: yes
+          plugin_stars_limit: 4
           plugin_reactions: yes
           plugin_reactions_display: absolute
           plugin_reactions_ignored: github-actions[bot], dependabot[bot]
@@ -74,3 +80,16 @@ jobs:
           plugin_people_limit: 28
           plugin_people_size: 28
           plugin_people_types: followers, following
+
+      - name: Commit and push
+        run: |
+          if [[ -z "$(git status --porcelain)" ]]; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add github-metrics.svg lapras/score.png
+          git commit -m "chore(profile): update generated assets"
+          git push

@@ -1,6 +1,6 @@
 # Yuki Yano's Profile
 
-[![Update Readme](https://github.com/yuki-yano/yuki-yano/workflows/Update%20Readme/badge.svg)](https://github.com/yuki-yano/yuki-yano/actions?query=workflow%3A%22Update+Readme%22)
+[![Profile Update](https://github.com/yuki-yano/yuki-yano/actions/workflows/profile-update.yml/badge.svg)](https://github.com/yuki-yano/yuki-yano/actions/workflows/profile-update.yml)
 
 [![github_views](https://komarev.com/ghpvc/?username=yuki-yano)](https://github.com/yuki-yano/yuki-yano/)
 [![twitter](https://img.shields.io/twitter/follow/yuki_ycino?label=Twitter&logo=twitter&style=flat)](https://x.com/yuki_ycino)
@@ -46,11 +46,11 @@
 
 ## Metrics
 
-![Metrics](https://github.com/yuki-yano/yuki-yano/blob/main/github-metrics.svg)
+![Metrics](./github-metrics.svg)
 
 ## Lapras
 
-[![lapras_score](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/lapras/score.png)](https://lapras.com/public/Y5XCY3M)
+[![lapras_score](./lapras/score.png)](https://lapras.com/public/Y5XCY3M)
 
 ## Main repositories
 
@@ -59,64 +59,3 @@
 - [reversal](https://github.com/ftg-reversal/reversal)
 - [imecoletter](https://github.com/yuki-yano/imecoletter)
 - [dotfiles](https://github.com/yuki-yano/dotfiles)
-
-## Analysis
-
-<!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-2%2C827%20hrs%2028%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 225.1 kB Used in GitHub's Storage 
- > 
-> 🏆 636 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 171 Public Repositories 
- > 
-> 🔑 6 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6281 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-🌆 Daytime                26619 commits       ████████████░░░░░░░░░░░░░   48.93 % 
-🌃 Evening                18070 commits       ████████░░░░░░░░░░░░░░░░░   33.21 % 
-🌙 Night                  3437 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    9 hrs 30 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          9 hrs 30 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               54 repos            ██████████░░░░░░░░░░░░░░░   40.30 % 
-JavaScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-Lua                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Vim Script               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/yuki-yano/yuki-yano/main/assets/bar_graph.png)
-
-
- Last Updated on 22/07/2025 19:40:23 UTC
-<!--END_SECTION:waka-->
