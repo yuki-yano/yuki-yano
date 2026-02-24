@@ -43,15 +43,6 @@ jobs:
           config_timezone: Asia/Tokyo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_activity: yes
-          plugin_activity_limit: 8
-          plugin_activity_days: 14
-          plugin_activity_timestamps: yes
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_charts: yes
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_followup_indepth: yes
