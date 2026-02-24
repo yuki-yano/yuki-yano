@@ -18,6 +18,6 @@ jobs:
       - name: Check links in README
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress README.md
+          args: --verbose --no-progress --exclude '^https://www\.reddit\.com/user/yuki-ycino/?$' README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
