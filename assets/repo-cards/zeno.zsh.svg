@@ -18,7 +18,7 @@
   </defs>
   <rect width="560" height="180" rx="20" fill="url(#card-bg)"/>
   <rect x="400" y="16" width="136" height="30" rx="15" fill="url(#chip-bg)"/>
-  <text x="418" y="36" class="meta">★ 219</text>
+  <text x="418" y="36" class="meta">★ 218</text>
   <text x="24" y="48" class="title">zeno.zsh</text>
   <text x="24" y="82" class="desc">zsh fuzzy completion and utility plugin with Deno.</text>
   <text x="24" y="120" class="meta">last push: 2026-02-21</text>
