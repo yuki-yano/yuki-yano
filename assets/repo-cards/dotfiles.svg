@@ -21,7 +21,7 @@
   <text x="418" y="36" class="meta">★ 62</text>
   <text x="24" y="48" class="title">dotfiles</text>
   <text x="24" y="82" class="desc">My configuration files.</text>
-  <text x="24" y="120" class="meta">last push: 2026-02-27</text>
+  <text x="24" y="120" class="meta">last push: 2026-02-28</text>
   <circle cx="24" cy="148" r="6" fill="#2563eb"/>
   <text x="38" y="153" class="lang">Lua</text>
 </svg>
